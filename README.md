@@ -48,8 +48,8 @@ This tool is useful for content creators, researchers, or anyone interested in g
 
 ## Live Demo
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-streamlit-app-url.streamlit.app/)
-*Replace `https://your-streamlit-app-url.streamlit.app/` with the actual URL after deployment.*
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://your-streamlit-app-url.streamlit.app/](https://dataharvestingapp-bukrsvd59dxb74bwtuswrc.streamlit.app/))
+
 
 ## Getting Started
 
