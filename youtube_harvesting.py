@@ -52,7 +52,7 @@ youtube = build('youtube', 'v3', developerKey=api_key)
 # Sidebar input
 st.sidebar.header('📺 YouTube Data Harvesting')
 st.sidebar.write("<span style='color:#2980b9'>Enter a YouTube channel ID to fetch its videos.</span>", unsafe_allow_html=True)
-channel_id = st.sidebar.text_input("Channel ID", "UCuQV3NTfCMmZ18pnskYAc1Q")
+channel_id = st.sidebar.text_input("Channel ID", "")
 
 
 max_results = 8  # Show 8 videos related to the content
