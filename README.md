@@ -7,7 +7,7 @@ A Streamlit web app to fetch YouTube channel videos, view statistics, and check 
 ![Streamlit App Screenshot - Placeholder](https://via.placeholder.com/800x400?text=Your+Streamlit+App+Screenshot+Here)
 *Replace this with an actual screenshot of your running app.*
 
-## Table of Contents
+# Table of Contents
 
 - [About The Project](#about-the-project)
 - [Features](#features)
