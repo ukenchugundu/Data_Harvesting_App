@@ -48,7 +48,7 @@ This tool is useful for content creators, researchers, or anyone interested in g
 
 ## Live Demo
 
-[![Streamlit App](https://dataharvestingapp-bukrsvd59dxb74bwtuswrc.streamlit.app/)
+![Streamlit App]([https://dataharvestingapp-bukrsvd59dxb74bwtuswrc.streamlit.app](https://dataharvestingapp-bukrsvd59dxb74bwtuswrc.streamlit.app/))
 
 
 ## Getting Started
